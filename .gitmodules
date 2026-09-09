@@ -1,0 +1,15 @@
+[submodule "tp2022gr2-projekt1"]
+	path = tp2022gr2-projekt1
+	url = https://github.com/AdrianKrolik/tp2022gr2-projekt1.git
+[submodule "tp2022gr2-projekt2"]
+	path = tp2022gr2-projekt2
+	url = https://github.com/AdrianKrolik/tp2022gr2-projekt2.git
+[submodule "tp2022gr2-projekt3"]
+	path = tp2022gr2-projekt3
+	url = https://github.com/AdrianKrolik/tp2022gr2-projekt3.git
+[submodule "tp2022gr2-projekt4"]
+	path = tp2022gr2-projekt4
+	url = https://github.com/AdrianKrolik/tp2022gr2-projekt4.git
+[submodule "tp2022gr2-projekt5"]
+	path = tp2022gr2-projekt5
+	url = https://github.com/AdrianKrolik/tp2022gr2-projekt5.git
